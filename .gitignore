@@ -1,0 +1,5 @@
+/myenv
+.env
+static/image/img_process/
+static/yolov8
+__pycache__/
